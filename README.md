@@ -1,4 +1,4 @@
-in this format # 💫 About Me:
+ # 💫 About Me:
 👋 Hi, I’m Farooq sarwar<br>👀 I’m an app developer<br>💞️ I’m looking to collaborate on Flutter projects<br>📫 Reach me at my email farooqsarwar953@gmail.com
 
 ## 🌐 Socials:
