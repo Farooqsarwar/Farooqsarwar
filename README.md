@@ -16,3 +16,6 @@
 [![](https://komarev.com/ghpvc/?username=Farooqsarwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```eof
+
+Your file has been reverted to the classic layout structure you requested, including the GitHub Stats and the specific tech stack badges. Let me know if you need any more tweaks!
